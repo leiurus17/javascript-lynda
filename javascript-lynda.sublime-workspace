@@ -8,11 +8,13 @@
 	"buffers":
 	[
 		{
-			"file": "LICENSE",
+			"file": "chap01/simple.html",
 			"settings":
 			{
-				"buffer_size": 1070,
-				"line_ending": "Unix"
+				"buffer_size": 332,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<html>"
 			}
 		}
 	],
@@ -52,12 +54,17 @@
 	],
 	"file_history":
 	[
+		"/home/lon/Documents/Scripts/buildV2.0.sh",
+		"/home/lon/Documents/Scripts/15",
+		"/home/lon/Documents/Github/javascript-lynda/javascript-lynda",
+		"/home/lon/Documents/Github/javascript-lynda/LICENSE",
+		"/home/lon/Documents/Github/javascript-lynda/LICENSE.sublime-project",
+		"/home/lon/Documents/Github/javascript-lynda/README.md",
 		"/home/lon/.zshrc",
 		"/home/lon/Documents/Apps/tomcat/bin/setenv.sh",
 		"/home/lon/Documents/Scripts/checkout.sh",
 		"/home/lon/Documents/Solutio/solutio_payroll_devops/bump.sh",
-		"/home/lon/Documents/Scripts/status.sh",
-		"/home/lon/Documents/Scripts/buildV2.0.sh"
+		"/home/lon/Documents/Scripts/status.sh"
 	],
 	"find":
 	{
@@ -97,24 +104,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "LICENSE",
-					"semi_transient": true,
+					"file": "chap01/simple.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1070,
+						"buffer_size": 332,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								129,
+								129
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -132,7 +140,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
